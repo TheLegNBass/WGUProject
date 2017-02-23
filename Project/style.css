@@ -1,0 +1,112 @@
+p{
+font-family: Arial;
+color: blue;
+}
+body{
+background-color: bisque;
+top: 150px;
+}
+
+header{
+text-align: justify;
+display: inline-block;
+width: 200px;
+top: auto;
+padding: 20px;
+background-color: black;
+font-family: Arial;
+color:aliceblue;
+text-align: left;
+}
+
+nav{
+text-align: center;
+display: inline-block;
+width:67%;
+top:auto;
+padding: 29px;
+background-color: gray;
+font-family: Arial; 
+}
+
+nav:hover{
+ color:chartreuse;   
+}
+
+.left{
+float:left;
+}
+
+.right{
+float: right;   
+}
+
+footer{
+text-align: center;
+}
+
+ol{
+font-family: Arial;
+color:forestgreen;
+}
+
+ul{
+font-family: Arial;
+color:crimson;
+}
+
+h1{
+font-family: Arial;
+
+}
+
+aside{
+align-items: center;  
+}
+
+a {
+color: crimson;
+}
+
+a:hover{
+ color: chartreuse;   
+}
+
+p.intro{
+font-family: Arial;
+color: cornflowerblue;
+}
+
+p.jobs{
+font-family: Arial;
+color: dodgerblue;
+}
+
+#signature{
+font-family: Arial;
+color:chocolate;
+}
+
+#opening{
+color:crimson;
+text-align: center;
+}
+
+#work{
+position: absolute;
+top: 325px;
+}
+
+#me{
+ float: right;   
+}
+
+table, th, td{
+border: 3px solid black;
+border-collapse: collapse;
+font-family: Arial;
+color:darkgreen;   
+}
+
+<!--To Whoever grades this: I am truely sorry for the color choices I made. I really didn't know how to do all the changes the rubric called for without making some 90's-looking monstosity.-->
+<!--At least I left out the flash animations and the music you can't turn off.-->
